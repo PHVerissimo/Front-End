@@ -1,0 +1,22 @@
+* {
+  font-style: Arial;
+}
+.estreiaHoje {
+  color: darkred;
+}
+
+.estreiaAmanha {
+  color: darkblue;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 a {
+  color: seagreen;
+}
+
+p {
+  font-size: 20px;
+}

@@ -1,0 +1,21 @@
+a {
+  text-decoration: nome;
+  color: #fff;
+  background-color: darkblue;
+  display: inline-block;
+}
+
+p {
+  background-color: lightblue;
+}
+
+.px {
+  font-size: 24px;
+  padding: 16px 32px;
+}
+
+/*  */
+.rem{
+  font-size:1.5rem;
+  padding: 1rem 2rem;
+}

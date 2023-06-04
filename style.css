@@ -1,0 +1,32 @@
+h1,
+a {
+  color: gold;
+}
+
+p a {
+  color: aqua;
+}
+
+#paragraf {
+  color: brown;
+}
+
+#intro {
+  color: blueviolet;
+}
+
+.codigo {
+  color: yellow;
+}
+
+.azul {
+  color: blue;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.grande {
+  font-size: 45px;
+}

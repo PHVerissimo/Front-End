@@ -1,0 +1,21 @@
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+ul li a {
+  text-decoration: none;
+  /* margin-top: 10px; */
+}
+
+a {
+  text-decoration: none;
+  background-color: #eee;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 4px;
+  display: block;
+}

@@ -1,0 +1,12 @@
+span {
+  display: inline-block;
+  background-color: aquamarine;
+  padding: 50px;
+  padding: 20px 40px;
+  padding: 40px 100px 10px 5px;
+
+  border: 10px solid black;
+  border-top: 50px solid pink;
+
+  border-width: 10px 2px;
+}
