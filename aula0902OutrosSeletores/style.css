@@ -1,0 +1,40 @@
+/* [required] {
+  border: 2px solid tomato;
+}
+[href="#contato"] {
+  background: #ccc;
+  border: 2px solid green;
+}
+
+a[href="https://www.origamid.com.br"]{
+  background: #ccc;
+  border: 2px solid pink;
+}
+[href^="#"]{
+  border-radius: 5px;
+} */
+
+section > h2 {
+  color: brown;
+}
+
+p {
+  margin: 0;
+}
+
+article {
+  background-color: aqua;
+  padding: 10px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+article p:last-child {
+  margin-bottom: 0px;
+}
+
+* {
+  border: 2px solid red;
+}
