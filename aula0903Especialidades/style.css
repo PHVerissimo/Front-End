@@ -1,0 +1,16 @@
+body {
+  font: 2rem;
+}
+
+.titulo {
+  color: tomato;
+  padding: 10px;
+}
+
+#produtos {
+  color: lightblue;
+}
+
+h2 {
+  color: black !important;
+}
