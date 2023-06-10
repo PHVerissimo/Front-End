@@ -9,12 +9,12 @@
 
 <body>
   <form action="./">
-    <div class="checkbox">
+    <!-- <div class="checkbox">
       <input type="checkbox" id="termos" name="termos" value="aceito">
       <label for="termos">Aceito os termos e condições</label>
-    </div>
+    </div> -->
 
-    <div class="checkbox">
+    <!-- <div class="checkbox">
       <input type="checkbox" id="anuncio" name="anuncio" value="aceito">
       <label for="anuncio">Aceito anuncios</label>
     </div>
@@ -26,7 +26,18 @@
     <div class="radio">
       <input type="radio" id="entrega" name="retirada">
       <label for="entrega">Retirar no local</label>
-    </div>
+    </div> -->
+    <label>Parcelas</label>
+    <select name="parcelas" id="parcelas">
+      <option value="-1" selected>Selecione a parcela</option>
+      <option value="1x">1 x 200,00</option>
+      <option value="2x">2 x 100,00</option>
+    </select>
+
+    <Label>Mensagem</Label>
+    <textarea name="mensagem" id="mensagem" cols="30" rows="10">
+
+   </textarea>
 
     <button>Enviar</button>
   </form>
